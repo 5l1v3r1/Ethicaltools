@@ -8,7 +8,7 @@ and its has uodated hackers tools its designed for gnuroot, termux users.
 
 #### Installation and Using Smtools
 ```
-git clone https://github.com/saintmalik/Ethicaltools
+git clone https://github.com/ShekharSumanPro/Ethicaltools.git
 ```
 ```
 cd Ethicaltools
