@@ -17,7 +17,7 @@ cd Ethicaltools
 python2 smtools.py
 ```
 
-## For Better Understanding Visit My Blog
+## For Better Understanding My FB
  @
-https://www.smtechub.com/ 
+https://www.facebook.com/ssumanpro
 
