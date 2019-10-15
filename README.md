@@ -6,7 +6,7 @@ and its has uodated hackers tools its designed for gnuroot, termux users.
 ### Requirements
 • Python 2.x
 
-tep 1 :- Install Termux from Play Store
+Step 1 :- Install Termux from Play Store
 
 step 2:- Open Termux application
 
